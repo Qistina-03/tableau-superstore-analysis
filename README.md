@@ -60,13 +60,4 @@ Features:
 
 ---
 
-## Dashboard Preview
 
-### Executive Overview
-
-![Dashboard 1](Screenshots/Dashboard_1_Executive_Overview.png)
-
-
-### Customer & Regional Analysis
-
-![Dashboard 2](Screenshots/Dashboard_2_Customer_Regional.png)
